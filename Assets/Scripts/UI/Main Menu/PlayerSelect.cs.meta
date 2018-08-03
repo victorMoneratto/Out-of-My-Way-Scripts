@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d932e3386835404e88a42f9b84572ccb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - matchSetup: {fileID: 11400000, guid: 367ee47213e651a4aaca43c63784fa23, type: 2}
+  - teamOnTheLeft: {instanceID: 0}
+  - teamOnTheRight: {instanceID: 0}
+  - teamRed: {instanceID: 0}
+  - teamGreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
